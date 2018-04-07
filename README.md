@@ -1,5 +1,6 @@
 # RnB Portfolio
 ## Left to be completed:
+- add a favicon
 - Fill in About me 
 - create and import signature png
 - create connect with me modal
